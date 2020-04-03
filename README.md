@@ -27,6 +27,12 @@
   <td><a href="/notebooks/04_xgboost.ipynb">GitHub</a></td>
   <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/04_xgboost.ipynb">nbviewer</a></td>
  </tr>
+ <tr>
+  <td>Prophet</td>
+  <td>prophet, séries temporais</td>
+  <td><a href="/notebooks/05_prophet.ipynb">GitHub</a></td>
+  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/05_prophet.ipynb">nbviewer</a></td>
+ </tr>
 </table>
 
 ## R
