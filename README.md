@@ -1,21 +1,23 @@
-# Data Science
 
-
-|-------|------|------|-------|
-| Árvores de Decisão | sklearn | [GitHub](/notebooks/01_arvore_decisao.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/01_arvore_decisao.ipynb) |
-| Random Forests | sklearn | [GitHub](/notebooks/02_random_forest.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/02_random_forest.ipynb) |
-| LGBM | sklearn, lgbm | [GitHub](/notebooks/03_LGBM.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/03_LGBM.ipynb) |
 
  <table>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>Árvores de Decisão</td>
+    <td>sklearn</td>
+    <td>[GitHub](/notebooks/01_arvore_decisao.ipynb)</td>
+    <td>[nbviewer](https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/01_arvore_decisao.ipynb)</td>
   </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+   <tr>
+    <td>Random Forests</td>
+    <td>sklearn</td>
+    <td>[GitHub](/notebooks/02_random_forest.ipynb)</td>
+    <td>[nbviewer](https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/02_random_forest.ipynb)</td>
+  </tr>
+   <tr>
+    <td>LGBM</td>
+    <td>sklearn, lgbm</td>
+    <td>[GitHub](/notebooks/03_LGBM.ipynb)</td>
+    <td>[nbviewer](https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/03_LGBM.ipynb)</td>
   </tr>
 </table> 
 
