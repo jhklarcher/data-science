@@ -20,12 +20,13 @@
   <td>sklearn, lgbm, validação cruzada</td>
   <td><a href="/notebooks/03_LGBM.ipynb">GitHub</a></td>
   <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/03_LGBM.ipynb">nbviewer</a></td>
-  </tr>
-   <td>XGBoost</td>
+ </tr>
+ <tr>
+  <td>XGBoost</td>
   <td>xgboost, validação cruzada, scikit-optimize</td>
   <td><a href="/notebooks/04_xgboost.ipynb">GitHub</a></td>
   <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/04_xgboost.ipynb">nbviewer</a></td>
-  </tr>
+ </tr>
 </table>
 
 ## R
