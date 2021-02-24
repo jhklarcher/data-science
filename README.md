@@ -46,3 +46,7 @@
  </tr>
 </table>
 
+## Outros
+
+- [Detector de fake news](https://jhklarcher.github.io/projects/detector_fake_news/)
+- [Food Consumption and Carbon Footprint Dashboard](https://jhklarcher.github.io/projects/random/food_footprint.html)
