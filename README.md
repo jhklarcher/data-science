@@ -6,32 +6,32 @@
  <tr>
   <td>Árvores de Decisão</td>
   <td>sklearn</td>
-  <td><a href="/notebooks/01_arvore_decisao.ipynb">GitHub</a></td>
-  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/01_arvore_decisao.ipynb">nbviewer</a></td>
+  <td><a href="/python/01_arvore_decisao.ipynb">GitHub</a></td>
+  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/python/01_arvore_decisao.ipynb">nbviewer</a></td>
  </tr>
  <tr>
   <td>Random Forests</td>
   <td>sklearn, validação cruzada</td>
-  <td><a href="/notebooks/02_random_forest.ipynb">GitHub</a></td>
-  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/02_random_forest.ipynb">nbviewer</a></td>
+  <td><a href="/python/02_random_forest.ipynb">GitHub</a></td>
+  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/python/02_random_forest.ipynb">nbviewer</a></td>
  </tr>
  <tr>
   <td>LGBM</td>
   <td>sklearn, lgbm, validação cruzada</td>
-  <td><a href="/notebooks/03_LGBM.ipynb">GitHub</a></td>
-  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/03_LGBM.ipynb">nbviewer</a></td>
+  <td><a href="/python/03_LGBM.ipynb">GitHub</a></td>
+  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/python/03_LGBM.ipynb">nbviewer</a></td>
  </tr>
  <tr>
   <td>XGBoost</td>
   <td>xgboost, validação cruzada, scikit-optimize</td>
-  <td><a href="/notebooks/04_xgboost.ipynb">GitHub</a></td>
-  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/04_xgboost.ipynb">nbviewer</a></td>
+  <td><a href="/python/04_xgboost.ipynb">GitHub</a></td>
+  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/python/04_xgboost.ipynb">nbviewer</a></td>
  </tr>
  <tr>
   <td>Prophet</td>
   <td>prophet, séries temporais</td>
-  <td><a href="/notebooks/05_prophet.ipynb">GitHub</a></td>
-  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/notebooks/05_prophet.ipynb">nbviewer</a></td>
+  <td><a href="/python/05_prophet.ipynb">GitHub</a></td>
+  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/python/05_prophet.ipynb">nbviewer</a></td>
  </tr>
 </table>
 
