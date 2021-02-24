@@ -42,7 +42,7 @@
   <td><a href="/R/01_regressao_multipla.ipynb">Regressão Múltipla no Dataset Longley</a></td>
   <td>R base, ggplot</td>
   <td><a href="/R/01_regressao_multipla.ipynb">GitHub</a></td>
-  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/R/01_regressao_multipla.ipynb">nbviewer</a></td>
+  <td><a href="https://jhklarcher.github.io/projects/R/01_regressao_multipla.html">html</a></td>
  </tr>
 </table>
 
