@@ -39,7 +39,7 @@
 
 <table>
   <tr>
-  <td><a href="/R/01_regressao_multipla.ipynb">Regressão Múltipla no Dataset Longley</a></td>
+  <td>Regressão Múltipla no Dataset Longley</td>
   <td>R base, ggplot</td>
   <td><a href="/R/01_regressao_multipla.ipynb">GitHub</a></td>
   <td><a href="https://jhklarcher.github.io/projects/R/01_regressao_multipla.html">html</a></td>
