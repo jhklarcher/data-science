@@ -39,6 +39,12 @@
   <td><a href="/python/06_deep_ts.ipynb">GitHub</a></td>
   <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/python/06_deep_ts.ipynb">nbviewer</a></td>
  </tr>
+ <tr>
+  <td>Feature engineering de séries temporais</td>
+  <td>séries temporais, regressão linear, sklearn</td>
+  <td><a href="/python/07_ts_linear_model.ipynb">GitHub</a></td>
+  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/python/07_ts_linear_model.ipynb">nbviewer</a></td>
+ </tr>
 </table>
 
 ## R
