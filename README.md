@@ -33,6 +33,12 @@
   <td><a href="/python/05_prophet.ipynb">GitHub</a></td>
   <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/python/05_prophet.ipynb">nbviewer</a></td>
  </tr>
+ <tr>
+  <td>GluonTS</td>
+  <td>séries temporais, deep learning, GluonTS</td>
+  <td><a href="/python/06_deep_ts.ipynb">GitHub</a></td>
+  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/python/06_deep_ts.ipynb">nbviewer</a></td>
+ </tr>
 </table>
 
 ## R
