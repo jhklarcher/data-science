@@ -45,6 +45,12 @@
   <td><a href="/python/07_ts_linear_model.ipynb">GitHub</a></td>
   <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/python/07_ts_linear_model.ipynb">nbviewer</a></td>
  </tr>
+ <tr>
+  <td>Keras Functional API</td>
+  <td>keras, redes neurais, MLP, regressão, functional api, cross validation</td>
+  <td><a href="/python/08_keras_functional_api.ipynb">GitHub</a></td>
+  <td><a href="https://nbviewer.jupyter.org/github/jhklarcher/data-science/blob/master/python/08_keras_functional_api.ipynb">nbviewer</a></td>
+ </tr>
 </table>
 
 ## R
